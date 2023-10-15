@@ -10,3 +10,8 @@ last_name = "name"
 full_name = first_name + " " + last_name
 print("Hey there, " + full_name.title() + "!") #.title will format the name 
 
+#example of a list
+cars = ['bmw', 'audi', 'honda']
+cars.sort() #This will sort the car list
+print(cars) 
+
